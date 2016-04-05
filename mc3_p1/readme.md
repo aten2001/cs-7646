@@ -1,0 +1,11 @@
+![](./plots/ripple.csvknn.png?raw=true)
+![](./plots/ripple.csvbag.png?raw=true)
+![](./plots/ripple.csvbag_k.png?raw=true)
+![](./plots/ripple.csvboost.png?raw=true)
+![](./plots/ripple.csvboost_k.png?raw=true)
+![](./plots/3_groups.csvknn.png?raw=true)
+![](./plots/3_groups.csvbag.png?raw=true)
+![](./plots/3_groups.csvbag_k.png?raw=true)
+![](./plots/3_groups.csvboost.png?raw=true)
+![](./plots/3_groups.csvboost_k.png?raw=true)
+
