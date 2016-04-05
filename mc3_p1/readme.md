@@ -8,4 +8,21 @@
 ![](./plots/3_groups.csvbag_k.png?raw=true)
 ![](./plots/3_groups.csvboost.png?raw=true)
 ![](./plots/3_groups.csvboost_k.png?raw=true)
+![](./plots/simple.csvknn.png?raw=true)
+![](./plots/simple.csvbag.png?raw=true)
+![](./plots/simple.csvbag_k.png?raw=true)
+![](./plots/simple.csvboost.png?raw=true)
+![](./plots/simple.csvboost_k.png?raw=true)
+![](./plots/best4linreg.csvknn.png?raw=true)
+![](./plots/best4linreg.csvbag.png?raw=true)
+![](./plots/best4linreg.csvbag_k.png?raw=true)
+![](./plots/best4linreg.csvboost.png?raw=true)
+![](./plots/best4linreg.csvboost_k.png?raw=true)
+![](./plots/best4KNN.csvknn.png?raw=true)
+![](./plots/best4KNN.csvbag.png?raw=true)
+![](./plots/best4KNN.csvbag_k.png?raw=true)
+![](./plots/best4KNN.csvboost.png?raw=true)
+![](./plots/best4KNN.csvboost_k.png?raw=true)
+
+
 
